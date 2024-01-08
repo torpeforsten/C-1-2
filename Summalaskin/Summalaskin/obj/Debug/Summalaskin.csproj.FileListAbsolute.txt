@@ -1,0 +1,11 @@
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\bin\Debug\Summalaskin.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\bin\Debug\Summalaskin.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\bin\Debug\Summalaskin.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\obj\Debug\Summalaskin.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\obj\Debug\Summalaskin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\obj\Debug\Summalaskin.Summain.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\obj\Debug\Summalaskin.Properties.Resources.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\obj\Debug\Summalaskin.csproj.GenerateResource.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\obj\Debug\Summalaskin.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\obj\Debug\Summalaskin.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Summalaskin\Summalaskin\obj\Debug\Summalaskin.pdb

@@ -1,0 +1,12 @@
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\bin\Debug\TiedotApp.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\bin\Debug\TiedotApp.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\bin\Debug\TiedotApp.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\obj\Debug\TiedotApp.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\obj\Debug\TiedotApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\obj\Debug\TiedotApp.frmRiistahavainnot.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\obj\Debug\TiedotApp.Properties.Resources.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\obj\Debug\TiedotApp.csproj.GenerateResource.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\obj\Debug\TiedotApp.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\obj\Debug\TiedotApp.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\obj\Debug\TiedotApp.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\TiedotApp\TiedotApp\obj\Debug\TiedotApp.FrmKarhuHavainto.resources
