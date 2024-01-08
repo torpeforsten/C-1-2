@@ -1,0 +1,11 @@
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\bin\Debug\Ohejlmointi2_VKO2_Tehtävä2.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\bin\Debug\Ohejlmointi2_VKO2_Tehtävä2.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\bin\Debug\Ohejlmointi2_VKO2_Tehtävä2.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\obj\Debug\Ohejlmointi2_VKO2_Tehtävä2.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\obj\Debug\Ohejlmointi2_VKO2_Tehtävä2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\obj\Debug\Ohejlmointi2_VKO2_Tehtävä2.Paikanvaihto.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\obj\Debug\Ohejlmointi2_VKO2_Tehtävä2.Properties.Resources.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\obj\Debug\Ohejlmointi2_VKO2_Tehtävä2.csproj.GenerateResource.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\obj\Debug\Ohejlmointi2_VKO2_Tehtävä2.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\obj\Debug\Ohejlmointi2_VKO2_Tehtävä2.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohejlmointi2_VKO2_Tehtävä2\Ohejlmointi2_VKO2_Tehtävä2\obj\Debug\Ohejlmointi2_VKO2_Tehtävä2.pdb
