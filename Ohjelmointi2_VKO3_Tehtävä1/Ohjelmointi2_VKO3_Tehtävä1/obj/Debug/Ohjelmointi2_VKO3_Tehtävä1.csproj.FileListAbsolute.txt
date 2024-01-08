@@ -1,0 +1,11 @@
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\bin\Debug\Ohjelmointi2_VKO3_Tehtävä1.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\bin\Debug\Ohjelmointi2_VKO3_Tehtävä1.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\bin\Debug\Ohjelmointi2_VKO3_Tehtävä1.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\obj\Debug\Ohjelmointi2_VKO3_Tehtävä1.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\obj\Debug\Ohjelmointi2_VKO3_Tehtävä1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\obj\Debug\Ohjelmointi2_VKO3_Tehtävä1.frmViikko3Teht1.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\obj\Debug\Ohjelmointi2_VKO3_Tehtävä1.Properties.Resources.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\obj\Debug\Ohjelmointi2_VKO3_Tehtävä1.csproj.GenerateResource.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\obj\Debug\Ohjelmointi2_VKO3_Tehtävä1.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\obj\Debug\Ohjelmointi2_VKO3_Tehtävä1.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Ohjelmointi2_VKO3_Tehtävä1\Ohjelmointi2_VKO3_Tehtävä1\obj\Debug\Ohjelmointi2_VKO3_Tehtävä1.pdb

@@ -1,0 +1,31 @@
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\bin\Debug\Viikko3Tuntiteht1.exe.config
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\bin\Debug\Viikko3Tuntiteht1.exe
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\bin\Debug\Viikko3Tuntiteht1.pdb
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csprojResolveAssemblyReference.cache
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.Form1.resources
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.Properties.Resources.resources
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csproj.GenerateResource.Cache
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csproj.CoreCompileInputs.cache
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.exe
+C:\Users\vtkinju\source\repos\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.pdb
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\bin\Debug\Viikko3Tuntiteht1.exe.config
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\bin\Debug\Viikko3Tuntiteht1.exe
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\bin\Debug\Viikko3Tuntiteht1.pdb
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csprojResolveAssemblyReference.cache
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.Properties.Resources.resources
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csproj.GenerateResource.Cache
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csproj.CoreCompileInputs.cache
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.exe
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.pdb
+C:\Omat\_teku\kurssit\ETA7100 Ohjelmointi II\Tehtävät\Tuntitehtävät\Viikko 3\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.Viikko3Tuntiteht1.resources
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\bin\Debug\Viikko3Tuntiteht1.exe.config
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\bin\Debug\Viikko3Tuntiteht1.exe
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\bin\Debug\Viikko3Tuntiteht1.pdb
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.Properties.Resources.resources
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.Viikko3Tuntiteht1.resources
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csproj.GenerateResource.cache
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.exe
+C:\Users\Roope Runnari\Downloads\Viikko3Tuntiteht1\Viikko3Tuntiteht1\Viikko3Tuntiteht1\obj\Debug\Viikko3Tuntiteht1.pdb
