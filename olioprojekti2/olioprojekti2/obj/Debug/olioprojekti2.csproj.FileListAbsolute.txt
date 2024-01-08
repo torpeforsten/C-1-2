@@ -1,0 +1,8 @@
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\olioprojekti2\olioprojekti2\bin\Debug\olioprojekti2.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\olioprojekti2\olioprojekti2\bin\Debug\olioprojekti2.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\olioprojekti2\olioprojekti2\bin\Debug\olioprojekti2.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\olioprojekti2\olioprojekti2\obj\Debug\olioprojekti2.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\olioprojekti2\olioprojekti2\obj\Debug\olioprojekti2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\olioprojekti2\olioprojekti2\obj\Debug\olioprojekti2.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\olioprojekti2\olioprojekti2\obj\Debug\olioprojekti2.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\olioprojekti2\olioprojekti2\obj\Debug\olioprojekti2.pdb
