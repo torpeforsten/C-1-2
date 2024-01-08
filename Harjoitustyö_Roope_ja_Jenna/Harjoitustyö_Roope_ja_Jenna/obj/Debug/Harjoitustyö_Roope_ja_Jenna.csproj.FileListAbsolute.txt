@@ -1,0 +1,14 @@
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\bin\Debug\Harjoitustyö_Roope_ja_Jenna.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\bin\Debug\Harjoitustyö_Roope_ja_Jenna.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\bin\Debug\Harjoitustyö_Roope_ja_Jenna.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\obj\Debug\Harjoitustyö_Roope_ja_Jenna.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\obj\Debug\Harjoitustyö_Roope_ja_Jenna.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\obj\Debug\Harjoitustyö_Roope_ja_Jenna.frmHenkilotietoLomake.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\obj\Debug\Harjoitustyö_Roope_ja_Jenna.Properties.Resources.resources
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\obj\Debug\Harjoitustyö_Roope_ja_Jenna.csproj.GenerateResource.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\obj\Debug\Harjoitustyö_Roope_ja_Jenna.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\obj\Debug\Harjoitustyö_Roope_ja_Jenna.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\obj\Debug\Harjoitustyö_Roope_ja_Jenna.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 2\Harjoitustyö_Roope_ja_Jenna\Harjoitustyö_Roope_ja_Jenna\obj\Debug\Harjoitustyö_Roope_ja_Jenna.csproj.CopyComplete
