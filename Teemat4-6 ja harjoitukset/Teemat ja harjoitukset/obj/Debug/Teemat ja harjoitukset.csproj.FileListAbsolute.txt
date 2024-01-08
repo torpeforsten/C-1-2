@@ -1,0 +1,8 @@
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\tehtävät tänne vittu\Teemat ja harjoitukset\Teemat ja harjoitukset\obj\Debug\Teemat ja harjoitukset.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\tehtävät tänne vittu\Teemat ja harjoitukset\Teemat ja harjoitukset\obj\Debug\Teemat ja harjoitukset.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\tehtävät tänne vittu\Teemat ja harjoitukset\Teemat ja harjoitukset\obj\Debug\Teemat ja harjoitukset.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\tehtävät tänne vittu\Teemat ja harjoitukset\Teemat ja harjoitukset\bin\Debug\Teemat ja harjoitukset.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\tehtävät tänne vittu\Teemat ja harjoitukset\Teemat ja harjoitukset\bin\Debug\Teemat ja harjoitukset.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\tehtävät tänne vittu\Teemat ja harjoitukset\Teemat ja harjoitukset\bin\Debug\Teemat ja harjoitukset.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\tehtävät tänne vittu\Teemat ja harjoitukset\Teemat ja harjoitukset\obj\Debug\Teemat ja harjoitukset.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\tehtävät tänne vittu\Teemat ja harjoitukset\Teemat ja harjoitukset\obj\Debug\Teemat ja harjoitukset.pdb

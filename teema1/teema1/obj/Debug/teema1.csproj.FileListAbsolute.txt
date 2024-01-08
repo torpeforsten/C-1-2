@@ -1,0 +1,8 @@
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema1\teema1\bin\Debug\teema1.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema1\teema1\bin\Debug\teema1.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema1\teema1\bin\Debug\teema1.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema1\teema1\obj\Debug\teema1.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema1\teema1\obj\Debug\teema1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema1\teema1\obj\Debug\teema1.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema1\teema1\obj\Debug\teema1.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema1\teema1\obj\Debug\teema1.pdb

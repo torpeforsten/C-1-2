@@ -1,0 +1,16 @@
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema2\Teema2\Teema2\bin\Debug\Teema2.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema2\Teema2\Teema2\bin\Debug\Teema2.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema2\Teema2\Teema2\bin\Debug\Teema2.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Ohjelmointi 1\Kotitehtävä 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\Teema 1\teema2\Teema2\Teema2\bin\Debug\Teema2.exe.config
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\Teema 1\teema2\Teema2\Teema2\bin\Debug\Teema2.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\Teema 1\teema2\Teema2\Teema2\bin\Debug\Teema2.pdb
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.csproj.AssemblyReference.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.csproj.CoreCompileInputs.cache
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.exe
+C:\Users\Roope Runnari\OneDrive - Vekomi Oy\Tiedostot\Ohjelmointi\Ohjelmointi 1\Teema 1\teema2\Teema2\Teema2\obj\Debug\Teema2.pdb
